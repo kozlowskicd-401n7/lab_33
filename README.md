@@ -57,4 +57,4 @@ get() - Generic function for performing GET requests to an API
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![Lab 33 UML](https://github.com/kozlowskicd/lab_33/blob/master/20190105_174452.jpg?raw=true "Lab 33 UML")
