@@ -2,12 +2,12 @@
 
 ## Lab 33 - Async Redux
 
-### Author: Chris Kozlowskicd
+### Author: Chris Kozlowski
 
 ### Links and Resources
 
 - [CodeSandbox](https://codesandbox.io/s/8no0opljj2)
-- [GitHub Repo](https://github.com/kozlowskicd/lab-33)
+- [GitHub Repo](https://github.com/kozlowskicd/lab_33)
 
 ### Modules
 
